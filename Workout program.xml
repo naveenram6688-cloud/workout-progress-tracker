@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="3S6waN6r6lfsQZrVWf6H">
+    <mxGraphModel dx="933" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LBrXqQadq03YSpfFGViG-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Start program&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="190" x="270" as="geometry" />
+        </mxCell>
+        <mxCell id="LBrXqQadq03YSpfFGViG-3" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="364.5" y="60" />
+            </Array>
+            <mxPoint x="364.5" y="60" as="sourcePoint" />
+            <mxPoint x="364.5" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LBrXqQadq03YSpfFGViG-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Main Menu&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Choose an option&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="305" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LBrXqQadq03YSpfFGViG-5" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.2" as="geometry">
+            <Array as="points">
+              <mxPoint x="364.5" y="200" />
+            </Array>
+            <mxPoint x="364.5" y="170" as="sourcePoint" />
+            <mxPoint x="364.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LBrXqQadq03YSpfFGViG-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="View history" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="LBrXqQadq03YSpfFGViG-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Record workout" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="LBrXqQadq03YSpfFGViG-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="View statistics" vertex="1">
+          <mxGeometry height="70" width="120" x="390" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="LBrXqQadq03YSpfFGViG-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Record progress" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="LBrXqQadq03YSpfFGViG-10" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="364.5" y="330" as="sourcePoint" />
+            <mxPoint x="364.5" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LBrXqQadq03YSpfFGViG-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Save or load date&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Store records in file&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="LBrXqQadq03YSpfFGViG-12" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="364.5" y="450" as="sourcePoint" />
+            <mxPoint x="364.5" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LBrXqQadq03YSpfFGViG-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Return to menu or exit&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="280" y="490" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
